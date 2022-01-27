@@ -1,8 +1,10 @@
-{"id": 2
+{
+"id": 2,
 "name": "Boston: RF", 
 "description": "",
 "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_rf.png",
 "attributes": [{"trait_type": "City", "value": "Boston"},
                {"trait_type": "Group", "value": "American"},
                {"trait_type": "Position", "value": "Right Field"},
-              {"trait_type": "Type", "value": "Hitter"}]}
+               {"trait_type": "Type", "value": "Hitter"}]
+}
