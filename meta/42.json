@@ -1,0 +1,12 @@
+{
+    "id": 42,
+    "name": "Minnesota: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/minnesota_lf.png",
+    "attributes": {
+        "City": "Minnesota",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

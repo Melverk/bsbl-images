@@ -1,0 +1,12 @@
+{
+    "id": 47,
+    "name": "Baltimore: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/baltimore_2b.png",
+    "attributes": {
+        "City": "Baltimore",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

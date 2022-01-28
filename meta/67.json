@@ -1,0 +1,12 @@
+{
+    "id": 67,
+    "name": "New York (A): SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/new_york_a_ss.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

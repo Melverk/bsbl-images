@@ -1,0 +1,12 @@
+{
+    "id": 31,
+    "name": "Kansas City: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_ss.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

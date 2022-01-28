@@ -1,0 +1,12 @@
+{
+    "id": 50,
+    "name": "Baltimore: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/baltimore_cf.png",
+    "attributes": {
+        "City": "Baltimore",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

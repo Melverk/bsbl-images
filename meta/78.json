@@ -1,0 +1,12 @@
+{
+    "id": 78,
+    "name": "Tampa Bay: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/tampa_lf.png",
+    "attributes": {
+        "City": "Tampa Bay",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

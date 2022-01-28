@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "name": "Chicago (A): 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_3b.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 55,
+    "name": "Boston: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_1b.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

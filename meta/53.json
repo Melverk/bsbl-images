@@ -1,0 +1,12 @@
+{
+    "id": 53,
+    "name": "Baltimore: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/baltimore_c.png",
+    "attributes": {
+        "City": "Baltimore",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 60,
+    "name": "Boston: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_lf.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

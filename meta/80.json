@@ -1,0 +1,12 @@
+{
+    "id": 80,
+    "name": "Tampa Bay: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/tampa_c.png",
+    "attributes": {
+        "City": "Tampa Bay",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

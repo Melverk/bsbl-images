@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Chicago (A): 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_1b.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

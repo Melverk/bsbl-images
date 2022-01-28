@@ -1,0 +1,12 @@
+{
+    "id": 26,
+    "name": "Detroit: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/detroit_c.png",
+    "attributes": {
+        "City": "Detroit",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 63,
+    "name": "Boston: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_p.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

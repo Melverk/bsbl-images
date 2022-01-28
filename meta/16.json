@@ -1,0 +1,12 @@
+{
+    "id": 16,
+    "name": "Cleveland: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cleveland_rf.png",
+    "attributes": {
+        "City": "Cleveland",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

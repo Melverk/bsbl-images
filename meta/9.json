@@ -1,0 +1,12 @@
+{
+    "id": 9,
+    "name": "Chicago (A): P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_p.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

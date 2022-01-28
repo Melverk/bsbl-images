@@ -1,0 +1,12 @@
+{
+    "id": 28,
+    "name": "Kansas City: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_1b.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 69,
+    "name": "New York (A): LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/new_york_a_lf.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

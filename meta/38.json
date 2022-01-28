@@ -1,0 +1,12 @@
+{
+    "id": 38,
+    "name": "Minnesota: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/minnesota_2b.png",
+    "attributes": {
+        "City": "Minnesota",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 86,
+    "name": "Toronto: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_cf.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

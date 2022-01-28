@@ -1,0 +1,12 @@
+{
+    "id": 5,
+    "name": "Chicago (A): CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_cf.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

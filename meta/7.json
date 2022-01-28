@@ -1,0 +1,12 @@
+{
+    "id": 7,
+    "name": "Chicago (A): RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_rf.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

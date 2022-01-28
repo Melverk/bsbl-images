@@ -1,0 +1,12 @@
+{
+    "id": 17,
+    "name": "Cleveland: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cleveland_c.png",
+    "attributes": {
+        "City": "Cleveland",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 41,
+    "name": "Minnesota: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/minnesota_cf.png",
+    "attributes": {
+        "City": "Minnesota",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 35,
+    "name": "Kansas City: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_c.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

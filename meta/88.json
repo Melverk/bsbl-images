@@ -1,0 +1,12 @@
+{
+    "id": 88,
+    "name": "Toronto: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_rf.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

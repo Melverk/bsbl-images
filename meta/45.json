@@ -1,0 +1,12 @@
+{
+    "id": 45,
+    "name": "Minnesota: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/minnesota_p.png",
+    "attributes": {
+        "City": "Minnesota",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

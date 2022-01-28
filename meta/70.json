@@ -1,0 +1,12 @@
+{
+    "id": 70,
+    "name": "New York (A): RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/new_york_a_rf.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

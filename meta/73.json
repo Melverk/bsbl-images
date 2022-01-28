@@ -1,0 +1,12 @@
+{
+    "id": 73,
+    "name": "Tampa Bay: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/tampa_1b.png",
+    "attributes": {
+        "City": "Tampa Bay",
+        "Group": "American",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

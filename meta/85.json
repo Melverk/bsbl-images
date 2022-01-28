@@ -1,0 +1,12 @@
+{
+    "id": 85,
+    "name": "Toronto: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_ss.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

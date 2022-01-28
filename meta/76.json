@@ -1,0 +1,12 @@
+{
+    "id": 76,
+    "name": "Tampa Bay: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/tampa_ss.png",
+    "attributes": {
+        "City": "Tampa Bay",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

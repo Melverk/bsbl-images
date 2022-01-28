@@ -1,0 +1,12 @@
+{
+    "id": 90,
+    "name": "Toronto: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_p.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

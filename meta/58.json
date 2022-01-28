@@ -1,0 +1,12 @@
+{
+    "id": 58,
+    "name": "Boston: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_ss.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

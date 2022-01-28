@@ -1,0 +1,12 @@
+{
+    "id": 36,
+    "name": "Kansas City: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_p.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

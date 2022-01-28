@@ -1,0 +1,12 @@
+{
+    "id": 83,
+    "name": "Toronto: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_2b.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

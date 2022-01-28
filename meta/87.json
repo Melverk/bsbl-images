@@ -1,0 +1,12 @@
+{
+    "id": 87,
+    "name": "Toronto: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_lf.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

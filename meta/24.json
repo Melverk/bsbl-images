@@ -1,0 +1,12 @@
+{
+    "id": 24,
+    "name": "Detroit: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/detroit_lf.png",
+    "attributes": {
+        "City": "Detroit",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

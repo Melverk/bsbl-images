@@ -1,0 +1,12 @@
+{
+    "id": 29,
+    "name": "Kansas City: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_2b.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "name": "Chicago (A): 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_2b.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

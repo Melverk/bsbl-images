@@ -1,0 +1,12 @@
+{
+    "id": 27,
+    "name": "Detroit: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/detroit_p.png",
+    "attributes": {
+        "City": "Detroit",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

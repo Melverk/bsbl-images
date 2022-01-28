@@ -1,0 +1,12 @@
+{
+    "id": 33,
+    "name": "Kansas City: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_lf.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

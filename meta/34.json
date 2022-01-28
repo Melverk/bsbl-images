@@ -1,0 +1,12 @@
+{
+    "id": 34,
+    "name": "Kansas City: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_rf.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

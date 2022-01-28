@@ -1,0 +1,12 @@
+{
+    "id": 39,
+    "name": "Minnesota: 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/minnesota_3b.png",
+    "attributes": {
+        "City": "Minnesota",
+        "Group": "American",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

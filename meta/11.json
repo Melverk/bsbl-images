@@ -1,0 +1,12 @@
+{
+    "id": 11,
+    "name": "Cleveland: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cleveland_2b.png",
+    "attributes": {
+        "City": "Cleveland",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

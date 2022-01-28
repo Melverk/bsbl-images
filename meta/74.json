@@ -1,0 +1,12 @@
+{
+    "id": 74,
+    "name": "Tampa Bay: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/tampa_2b.png",
+    "attributes": {
+        "City": "Tampa Bay",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

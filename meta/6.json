@@ -1,0 +1,12 @@
+{
+    "id": 6,
+    "name": "Chicago (A): LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_lf.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

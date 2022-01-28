@@ -1,0 +1,12 @@
+{
+    "id": 62,
+    "name": "Boston: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_c.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

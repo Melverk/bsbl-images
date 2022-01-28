@@ -1,0 +1,12 @@
+{
+    "id": 49,
+    "name": "Baltimore: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/baltimore_ss.png",
+    "attributes": {
+        "City": "Baltimore",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

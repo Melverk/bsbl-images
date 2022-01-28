@@ -1,0 +1,12 @@
+{
+    "id": 18,
+    "name": "Cleveland: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cleveland_p.png",
+    "attributes": {
+        "City": "Cleveland",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

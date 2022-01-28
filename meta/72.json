@@ -1,0 +1,12 @@
+{
+    "id": 72,
+    "name": "New York (A): P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/new_york_a_p.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

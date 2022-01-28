@@ -1,0 +1,12 @@
+{
+    "id": 20,
+    "name": "Detroit: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/detroit_2b.png",
+    "attributes": {
+        "City": "Detroit",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

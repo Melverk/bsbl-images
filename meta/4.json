@@ -1,0 +1,12 @@
+{
+    "id": 4,
+    "name": "Chicago (A): SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chicago_sox_ss.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

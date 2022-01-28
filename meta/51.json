@@ -1,0 +1,12 @@
+{
+    "id": 51,
+    "name": "Baltimore: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/baltimore_lf.png",
+    "attributes": {
+        "City": "Baltimore",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

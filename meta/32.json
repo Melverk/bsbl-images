@@ -1,0 +1,12 @@
+{
+    "id": 32,
+    "name": "Kansas City: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/kc_cf.png",
+    "attributes": {
+        "City": "Kansas City",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

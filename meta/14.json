@@ -1,0 +1,12 @@
+{
+    "id": 14,
+    "name": "Cleveland: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cleveland_cf.png",
+    "attributes": {
+        "City": "Cleveland",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

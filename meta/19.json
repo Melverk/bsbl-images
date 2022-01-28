@@ -1,0 +1,12 @@
+{
+    "id": 19,
+    "name": "Detroit: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/detroit_1b.png",
+    "attributes": {
+        "City": "Detroit",
+        "Group": "American",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

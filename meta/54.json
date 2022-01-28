@@ -1,0 +1,12 @@
+{
+    "id": 54,
+    "name": "Baltimore: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/baltimore_p.png",
+    "attributes": {
+        "City": "Baltimore",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

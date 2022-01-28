@@ -1,0 +1,12 @@
+{
+    "id": 89,
+    "name": "Toronto: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/toronto_c.png",
+    "attributes": {
+        "City": "Toronto",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

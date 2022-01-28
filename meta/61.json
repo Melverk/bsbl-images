@@ -1,0 +1,12 @@
+{
+    "id": 61,
+    "name": "Boston: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_rf.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

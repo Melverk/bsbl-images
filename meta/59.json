@@ -1,0 +1,12 @@
+{
+    "id": 59,
+    "name": "Boston: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/boston_cf.png",
+    "attributes": {
+        "City": "Boston",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}
