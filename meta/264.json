@@ -1,0 +1,12 @@
+{
+    "id": 264,
+    "name": "San Francisco: 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_3b.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

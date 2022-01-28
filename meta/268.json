@@ -1,0 +1,12 @@
+{
+    "id": 268,
+    "name": "San Francisco: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_rf.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

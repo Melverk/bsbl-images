@@ -1,0 +1,12 @@
+{
+    "id": 217,
+    "name": "Washington: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_1b.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

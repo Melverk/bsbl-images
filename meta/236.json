@@ -1,0 +1,12 @@
+{
+    "id": 236,
+    "name": "Colorado: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/colorado_2b.png",
+    "attributes": {
+        "City": "Colorado",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

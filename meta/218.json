@@ -1,0 +1,12 @@
+{
+    "id": 218,
+    "name": "Washington: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_2b.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

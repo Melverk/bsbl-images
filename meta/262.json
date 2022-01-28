@@ -1,0 +1,12 @@
+{
+    "id": 262,
+    "name": "San Francisco: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_1b.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

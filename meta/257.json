@@ -1,0 +1,12 @@
+{
+    "id": 257,
+    "name": "San Diego: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diegocf.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 231,
+    "name": "Arizona: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/arizona_lf.png",
+    "attributes": {
+        "City": "Arizona",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

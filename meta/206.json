@@ -1,0 +1,12 @@
+{
+    "id": 206,
+    "name": "New York (N): C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/ny_2_c.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 213,
+    "name": "Philadelphia: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/philadelphia_lf.png",
+    "attributes": {
+        "City": "Philadelphia",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

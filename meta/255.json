@@ -1,0 +1,12 @@
+{
+    "id": 255,
+    "name": "San Diego: 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diego3b.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

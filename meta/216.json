@@ -1,0 +1,12 @@
+{
+    "id": 216,
+    "name": "Philadelphia: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/philadelphia_p.png",
+    "attributes": {
+        "City": "Philadelphia",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

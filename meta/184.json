@@ -1,0 +1,12 @@
+{
+    "id": 184,
+    "name": "Atlanta: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__ss.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

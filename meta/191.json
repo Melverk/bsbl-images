@@ -1,0 +1,12 @@
+{
+    "id": 191,
+    "name": "Miami: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/miami_2b.png",
+    "attributes": {
+        "City": "Miami",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

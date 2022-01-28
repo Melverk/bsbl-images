@@ -1,0 +1,12 @@
+{
+    "id": 269,
+    "name": "San Francisco: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_c.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

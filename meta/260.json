@@ -1,0 +1,12 @@
+{
+    "id": 260,
+    "name": "San Diego: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diegoc.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

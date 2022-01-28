@@ -1,0 +1,12 @@
+{
+    "id": 222,
+    "name": "Washington: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_lf.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 224,
+    "name": "Washington: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_c.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

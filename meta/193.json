@@ -1,0 +1,12 @@
+{
+    "id": 193,
+    "name": "Miami: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/miami_ss.png",
+    "attributes": {
+        "City": "Miami",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

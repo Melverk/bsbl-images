@@ -1,0 +1,12 @@
+{
+    "id": 263,
+    "name": "San Francisco: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_2b.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 215,
+    "name": "Philadelphia: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/philadelphia_c.png",
+    "attributes": {
+        "City": "Philadelphia",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

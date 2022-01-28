@@ -1,0 +1,12 @@
+{
+    "id": 203,
+    "name": "New York (N): CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/ny_2_cf.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 232,
+    "name": "Arizona: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/arizona_rf.png",
+    "attributes": {
+        "City": "Arizona",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

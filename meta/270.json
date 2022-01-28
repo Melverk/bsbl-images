@@ -1,0 +1,12 @@
+{
+    "id": 270,
+    "name": "San Francisco: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_p.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

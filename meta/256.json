@@ -1,0 +1,12 @@
+{
+    "id": 256,
+    "name": "San Diego: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diegoss.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

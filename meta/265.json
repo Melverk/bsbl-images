@@ -1,0 +1,12 @@
+{
+    "id": 265,
+    "name": "San Francisco: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/sf_ss.png",
+    "attributes": {
+        "City": "San Francisco",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

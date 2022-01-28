@@ -1,0 +1,12 @@
+{
+    "id": 200,
+    "name": "New York (N): 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/ny_2_2b.png",
+    "attributes": {
+        "City": "New York",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

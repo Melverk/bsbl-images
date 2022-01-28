@@ -1,0 +1,12 @@
+{
+    "id": 250,
+    "name": "Los Angeles (N): RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/la_rf.png",
+    "attributes": {
+        "City": "Los Angeles",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

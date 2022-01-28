@@ -1,0 +1,12 @@
+{
+    "id": 261,
+    "name": "San Diego: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diegop.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

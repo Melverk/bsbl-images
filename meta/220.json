@@ -1,0 +1,12 @@
+{
+    "id": 220,
+    "name": "Washington: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_ss.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

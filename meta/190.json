@@ -1,0 +1,12 @@
+{
+    "id": 190,
+    "name": "Miami: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/miami_1b.png",
+    "attributes": {
+        "City": "Miami",
+        "Group": "National",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

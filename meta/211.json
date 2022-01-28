@@ -1,0 +1,12 @@
+{
+    "id": 211,
+    "name": "Philadelphia: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/philadelphia_ss.png",
+    "attributes": {
+        "City": "Philadelphia",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

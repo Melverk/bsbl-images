@@ -1,0 +1,12 @@
+{
+    "id": 229,
+    "name": "Arizona: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/arizona_ss.png",
+    "attributes": {
+        "City": "Arizona",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

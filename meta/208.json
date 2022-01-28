@@ -1,0 +1,12 @@
+{
+    "id": 208,
+    "name": "Philadelphia: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/philadelphia_1b.png",
+    "attributes": {
+        "City": "Philadelphia",
+        "Group": "National",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

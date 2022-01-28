@@ -1,0 +1,12 @@
+{
+    "id": 234,
+    "name": "Arizona: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/arizona_p.png",
+    "attributes": {
+        "City": "Arizona",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

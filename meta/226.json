@@ -1,0 +1,12 @@
+{
+    "id": 226,
+    "name": "Arizona: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/arizona_1b.png",
+    "attributes": {
+        "City": "Arizona",
+        "Group": "National",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

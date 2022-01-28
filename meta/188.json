@@ -1,0 +1,12 @@
+{
+    "id": 188,
+    "name": "Atlanta: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__c.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 214,
+    "name": "Philadelphia: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/philadelphia_rf.png",
+    "attributes": {
+        "City": "Philadelphia",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 219,
+    "name": "Washington: 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_3b.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

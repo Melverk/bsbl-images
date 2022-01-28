@@ -1,0 +1,12 @@
+{
+    "id": 225,
+    "name": "Washington: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_p.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

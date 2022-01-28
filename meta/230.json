@@ -1,0 +1,12 @@
+{
+    "id": 230,
+    "name": "Arizona: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/arizona_cf.png",
+    "attributes": {
+        "City": "Arizona",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

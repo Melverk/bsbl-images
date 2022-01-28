@@ -1,0 +1,12 @@
+{
+    "id": 187,
+    "name": "Atlanta: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__rf.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

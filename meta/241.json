@@ -1,0 +1,12 @@
+{
+    "id": 241,
+    "name": "Colorado: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/colorado_rf.png",
+    "attributes": {
+        "City": "Colorado",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

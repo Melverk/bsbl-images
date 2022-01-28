@@ -1,0 +1,12 @@
+{
+    "id": 254,
+    "name": "San Diego: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diego2b.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

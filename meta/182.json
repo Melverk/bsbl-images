@@ -1,0 +1,12 @@
+{
+    "id": 182,
+    "name": "Atlanta: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__2b.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

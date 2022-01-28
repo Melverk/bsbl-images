@@ -1,0 +1,12 @@
+{
+    "id": 252,
+    "name": "Los Angeles (N): P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/la_p.png",
+    "attributes": {
+        "City": "Los Angeles",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

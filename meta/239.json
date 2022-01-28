@@ -1,0 +1,12 @@
+{
+    "id": 239,
+    "name": "Colorado: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/colorado_cf.png",
+    "attributes": {
+        "City": "Colorado",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

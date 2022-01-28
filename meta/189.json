@@ -1,0 +1,12 @@
+{
+    "id": 189,
+    "name": "Atlanta: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__p.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

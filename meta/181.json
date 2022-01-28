@@ -1,0 +1,12 @@
+{
+    "id": 181,
+    "name": "Atlanta: 1B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__1b.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "First Base",
+        "Type": "Hitter"
+    }
+}

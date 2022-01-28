@@ -1,0 +1,12 @@
+{
+    "id": 185,
+    "name": "Atlanta: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__cf.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

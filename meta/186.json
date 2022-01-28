@@ -1,0 +1,12 @@
+{
+    "id": 186,
+    "name": "Atlanta: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/atlanta__lf.png",
+    "attributes": {
+        "City": "Atlanta",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

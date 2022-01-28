@@ -1,0 +1,12 @@
+{
+    "id": 242,
+    "name": "Colorado: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/colorado_c.png",
+    "attributes": {
+        "City": "Colorado",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

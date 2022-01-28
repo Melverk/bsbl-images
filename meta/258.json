@@ -1,0 +1,12 @@
+{
+    "id": 258,
+    "name": "San Diego: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/san_diegolf.png",
+    "attributes": {
+        "City": "San Diego",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

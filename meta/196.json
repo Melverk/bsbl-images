@@ -1,0 +1,12 @@
+{
+    "id": 196,
+    "name": "Miami: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/miami_rf.png",
+    "attributes": {
+        "City": "Miami",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

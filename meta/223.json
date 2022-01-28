@@ -1,0 +1,12 @@
+{
+    "id": 223,
+    "name": "Washington: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/washington_rf.png",
+    "attributes": {
+        "City": "Washington",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}
