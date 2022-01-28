@@ -1,0 +1,12 @@
+{
+    "id": 110,
+    "name": "Oakland: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/oakland_2b.png",
+    "attributes": {
+        "City": "Oakland",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

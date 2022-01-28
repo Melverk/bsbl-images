@@ -1,0 +1,12 @@
+{
+    "id": 164,
+    "name": "Pittsburgh: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/pittsburgh_2b.png",
+    "attributes": {
+        "City": "Pittsburgh",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

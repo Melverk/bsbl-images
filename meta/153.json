@@ -1,0 +1,12 @@
+{
+    "id": 153,
+    "name": "Cincinnati: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_p.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

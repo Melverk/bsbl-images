@@ -1,0 +1,12 @@
+{
+    "id": 147,
+    "name": "Cincinnati: 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_3b.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

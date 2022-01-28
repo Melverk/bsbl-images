@@ -1,0 +1,12 @@
+{
+    "id": 158,
+    "name": "Milwaukee: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/milwaukee_cf.png",
+    "attributes": {
+        "City": "Milwaukee",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

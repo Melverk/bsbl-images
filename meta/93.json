@@ -1,0 +1,12 @@
+{
+    "id": 93,
+    "name": "Houston: 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_3b.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

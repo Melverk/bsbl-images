@@ -1,0 +1,12 @@
+{
+    "id": 94,
+    "name": "Houston: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_ss.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

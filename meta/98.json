@@ -1,0 +1,12 @@
+{
+    "id": 98,
+    "name": "Houston: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_c.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

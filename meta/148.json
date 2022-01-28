@@ -1,0 +1,12 @@
+{
+    "id": 148,
+    "name": "Cincinnati: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_ss.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

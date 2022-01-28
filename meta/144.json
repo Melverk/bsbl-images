@@ -1,0 +1,12 @@
+{
+    "id": 144,
+    "name": "Chicago (N): P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chi_town_p.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

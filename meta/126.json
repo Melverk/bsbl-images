@@ -1,0 +1,12 @@
+{
+    "id": 126,
+    "name": "Seattle: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/seattle_2_p.png",
+    "attributes": {
+        "City": "Seattle",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

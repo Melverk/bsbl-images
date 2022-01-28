@@ -1,0 +1,12 @@
+{
+    "id": 138,
+    "name": "Chicago (N): 3B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chi_town_3b.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "National",
+        "Position": "Third Base",
+        "Type": "Hitter"
+    }
+}

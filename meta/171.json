@@ -1,0 +1,12 @@
+{
+    "id": 171,
+    "name": "Pittsburgh: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/pittsburgh_p.png",
+    "attributes": {
+        "City": "Pittsburgh",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

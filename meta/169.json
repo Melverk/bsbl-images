@@ -1,0 +1,12 @@
+{
+    "id": 169,
+    "name": "Pittsburgh: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/pittsburgh_rf.png",
+    "attributes": {
+        "City": "Pittsburgh",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

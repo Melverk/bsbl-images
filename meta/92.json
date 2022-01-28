@@ -1,0 +1,12 @@
+{
+    "id": 92,
+    "name": "Houston: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_2b.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

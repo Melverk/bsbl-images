@@ -1,0 +1,12 @@
+{
+    "id": 116,
+    "name": "Oakland: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/oakland_c.png",
+    "attributes": {
+        "City": "Oakland",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

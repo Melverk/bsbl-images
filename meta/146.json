@@ -1,0 +1,12 @@
+{
+    "id": 146,
+    "name": "Cincinnati: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_2b.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

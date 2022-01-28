@@ -1,0 +1,12 @@
+{
+    "id": 97,
+    "name": "Houston: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_rf.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

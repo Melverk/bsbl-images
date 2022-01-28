@@ -1,0 +1,12 @@
+{
+    "id": 99,
+    "name": "Houston: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_p.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

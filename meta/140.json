@@ -1,0 +1,12 @@
+{
+    "id": 140,
+    "name": "Chicago (N): CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chi_town_cf.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

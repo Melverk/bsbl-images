@@ -1,0 +1,12 @@
+{
+    "id": 180,
+    "name": "St Louis: P",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/st_louis_p.png",
+    "attributes": {
+        "City": "St Louis",
+        "Group": "National",
+        "Position": "Pitcher",
+        "Type": "Pitcher"
+    }
+}

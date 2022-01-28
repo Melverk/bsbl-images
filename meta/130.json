@@ -1,0 +1,12 @@
+{
+    "id": 130,
+    "name": "Texas: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/texas_2_ss.png",
+    "attributes": {
+        "City": "Texas",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

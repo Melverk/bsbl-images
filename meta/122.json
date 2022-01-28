@@ -1,0 +1,12 @@
+{
+    "id": 122,
+    "name": "Seattle: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/seattle_2_cf.png",
+    "attributes": {
+        "City": "Seattle",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

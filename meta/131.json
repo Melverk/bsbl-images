@@ -1,0 +1,12 @@
+{
+    "id": 131,
+    "name": "Texas: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/texas_2_cf.png",
+    "attributes": {
+        "City": "Texas",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

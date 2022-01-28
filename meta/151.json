@@ -1,0 +1,12 @@
+{
+    "id": 151,
+    "name": "Cincinnati: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_rf.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

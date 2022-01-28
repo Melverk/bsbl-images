@@ -1,0 +1,12 @@
+{
+    "id": 170,
+    "name": "Pittsburgh: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/pittsburgh_c.png",
+    "attributes": {
+        "City": "Pittsburgh",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

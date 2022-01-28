@@ -1,0 +1,12 @@
+{
+    "id": 95,
+    "name": "Houston: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_cf.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

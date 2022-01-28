@@ -1,0 +1,12 @@
+{
+    "id": 107,
+    "name": "Los Angeles (A): C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/la_angels_c.png",
+    "attributes": {
+        "City": "Los Angeles",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

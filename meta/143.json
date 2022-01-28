@@ -1,0 +1,12 @@
+{
+    "id": 143,
+    "name": "Chicago (N): C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chi_town_c.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

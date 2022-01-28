@@ -1,0 +1,12 @@
+{
+    "id": 160,
+    "name": "Milwaukee: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/milwaukee_rf.png",
+    "attributes": {
+        "City": "Milwaukee",
+        "Group": "National",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

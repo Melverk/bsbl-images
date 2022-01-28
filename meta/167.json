@@ -1,0 +1,12 @@
+{
+    "id": 167,
+    "name": "Pittsburgh: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/pittsburgh_cf.png",
+    "attributes": {
+        "City": "Pittsburgh",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

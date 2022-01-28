@@ -1,0 +1,12 @@
+{
+    "id": 134,
+    "name": "Texas: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/texas_2_c.png",
+    "attributes": {
+        "City": "Texas",
+        "Group": "American",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

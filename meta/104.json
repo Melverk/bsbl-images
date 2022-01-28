@@ -1,0 +1,12 @@
+{
+    "id": 104,
+    "name": "Los Angeles (A): CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/la_angels_cf.png",
+    "attributes": {
+        "City": "Los Angeles",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

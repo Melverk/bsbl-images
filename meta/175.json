@@ -1,0 +1,12 @@
+{
+    "id": 175,
+    "name": "St Louis: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/st_louis_ss.png",
+    "attributes": {
+        "City": "St Louis",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

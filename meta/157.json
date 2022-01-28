@@ -1,0 +1,12 @@
+{
+    "id": 157,
+    "name": "Milwaukee: SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/milwaukee_ss.png",
+    "attributes": {
+        "City": "Milwaukee",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

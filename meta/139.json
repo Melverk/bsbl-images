@@ -1,0 +1,12 @@
+{
+    "id": 139,
+    "name": "Chicago (N): SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chi_town_ss.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "National",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

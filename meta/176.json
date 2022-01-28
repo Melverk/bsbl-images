@@ -1,0 +1,12 @@
+{
+    "id": 176,
+    "name": "St Louis: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/st_louis_cf.png",
+    "attributes": {
+        "City": "St Louis",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

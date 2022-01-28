@@ -1,0 +1,12 @@
+{
+    "id": 96,
+    "name": "Houston: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/houston_lf.png",
+    "attributes": {
+        "City": "Houston",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

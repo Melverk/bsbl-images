@@ -1,0 +1,12 @@
+{
+    "id": 179,
+    "name": "St Louis: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/st_louis_c.png",
+    "attributes": {
+        "City": "St Louis",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 173,
+    "name": "St Louis: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/st_louis_2b.png",
+    "attributes": {
+        "City": "St Louis",
+        "Group": "National",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

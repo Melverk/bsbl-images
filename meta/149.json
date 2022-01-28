@@ -1,0 +1,12 @@
+{
+    "id": 149,
+    "name": "Cincinnati: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_cf.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

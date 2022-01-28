@@ -1,0 +1,12 @@
+{
+    "id": 101,
+    "name": "Los Angeles (A): 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/la_angels_2b.png",
+    "attributes": {
+        "City": "Los Angeles",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}

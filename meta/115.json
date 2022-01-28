@@ -1,0 +1,12 @@
+{
+    "id": 115,
+    "name": "Oakland: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/oakland_rf.png",
+    "attributes": {
+        "City": "Oakland",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

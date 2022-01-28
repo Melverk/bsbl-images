@@ -1,0 +1,12 @@
+{
+    "id": 177,
+    "name": "St Louis: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/st_louis_lf.png",
+    "attributes": {
+        "City": "St Louis",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

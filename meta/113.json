@@ -1,0 +1,12 @@
+{
+    "id": 113,
+    "name": "Oakland: CF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/oakland_cf.png",
+    "attributes": {
+        "City": "Oakland",
+        "Group": "American",
+        "Position": "Center Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 123,
+    "name": "Seattle: LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/seattle_2_lf.png",
+    "attributes": {
+        "City": "Seattle",
+        "Group": "American",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 152,
+    "name": "Cincinnati: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/cincinnati_c.png",
+    "attributes": {
+        "City": "Cincinnati",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

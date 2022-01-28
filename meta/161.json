@@ -1,0 +1,12 @@
+{
+    "id": 161,
+    "name": "Milwaukee: C",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/milwaukee_c.png",
+    "attributes": {
+        "City": "Milwaukee",
+        "Group": "National",
+        "Position": "Catcher",
+        "Type": "Hitter"
+    }
+}

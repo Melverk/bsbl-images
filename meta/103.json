@@ -1,0 +1,12 @@
+{
+    "id": 103,
+    "name": "Los Angeles (A): SS",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/la_angels_ss.png",
+    "attributes": {
+        "City": "Los Angeles",
+        "Group": "American",
+        "Position": "Short Stop",
+        "Type": "Hitter"
+    }
+}

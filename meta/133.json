@@ -1,0 +1,12 @@
+{
+    "id": 133,
+    "name": "Texas: RF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/texas_2_rf.png",
+    "attributes": {
+        "City": "Texas",
+        "Group": "American",
+        "Position": "Right Field",
+        "Type": "Hitter"
+    }
+}

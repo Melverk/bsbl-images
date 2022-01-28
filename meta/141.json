@@ -1,0 +1,12 @@
+{
+    "id": 141,
+    "name": "Chicago (N): LF",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/chi_town_lf.png",
+    "attributes": {
+        "City": "Chicago",
+        "Group": "National",
+        "Position": "Left Field",
+        "Type": "Hitter"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "id": 128,
+    "name": "Texas: 2B",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/Melverk/bsbl-images/main/texas_2_2b.png",
+    "attributes": {
+        "City": "Texas",
+        "Group": "American",
+        "Position": "Second Base",
+        "Type": "Hitter"
+    }
+}
